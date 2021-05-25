@@ -43,7 +43,7 @@ excerpt: >-
   Moving across the United States can be a transformational experience,
   something I learned the first time I moved away from Little Rock on my own to
   go to undergrad in Portland. Never did I imagine moving back as I found “home”
-  on the West Coaast
+  on the West Coaast, first in Portland & then in S
 ---
 
 In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
