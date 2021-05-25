@@ -5,7 +5,6 @@ excerpt: >-
   requires pushing vegetation aside.
 date: '2020-05-09'
 thumb_img_path: images/5.jpg
-thumb_img_alt: A man standing on a rock cliff overlooking river
 content_img_path: images/1.jpg
 content_img_alt: A man standing on a rock cliff overlooking river
 seo:
