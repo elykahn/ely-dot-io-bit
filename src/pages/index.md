@@ -1,11 +1,12 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: >
+  I’m ely and this is a collection of my ongoing thoughts and writing. I’ll be
+  extolling the use of **Design Thinking**, **Creative Coding, Generative
+  Art/Design **& **Writing to Explore One’s Own Beliefs**. Thoughts here are not
+  representative of anyone outside of my head. Feedback is welcome. Thanks for
+  coming, hope something herein provokes you to think differently.
 intro_actions:
   - label: Learn More
     url: /about
