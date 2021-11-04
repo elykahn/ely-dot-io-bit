@@ -8,7 +8,7 @@ intro_content: >
   representative of anyone outside of my head. Feedback is welcome. Thanks for
   coming, hope something herein provokes you to think differently.
 intro_actions:
-  - label: Learn More
+  - label: About
     url: /about
     style: primary
   - label: Contact
@@ -17,17 +17,17 @@ intro_actions:
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Stackbit Ampersand Theme
-  description: The preview of the Ampersand theme
+  title: ely.io
+  description: blog of ely kahn, designer, dev, creative coder
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Ampersand Theme
+      value: ely.io
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: blog of ely kahn, designer, dev, creative coder
       keyName: property
     - name: 'og:image'
       value: images/ampersand-preview.png
@@ -36,9 +36,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Ampersand Theme
+      value: ely.io
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
+      value: blog of ely kahn, designer, dev, creative coder
     - name: 'twitter:image'
       value: images/ampersand-preview.png
       relativeUrl: true
